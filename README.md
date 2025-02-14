@@ -2,7 +2,6 @@
 
 A healthcare products marketplace demonstrating key e-commerce features with dark mode support.
 
-**Live Demo**: [Vercel Deployment]() | [Video Walkthrough]()
 
 ## Features Implemented
 ✅ **Core Requirements**
